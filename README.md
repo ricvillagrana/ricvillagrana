@@ -6,4 +6,4 @@ Contact me at:
 | [LinkedIn](https://www.linkedin.com/in/ricvillagrana)
 | [ricardo@axolot.io](mailto:ricardo@axolot.io)
 
-Currently working on: [tango.io](https://tango.io) and [axolot.io](https://axolot.io).
+Currently working on: [tango.io](https://tango.io).
