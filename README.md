@@ -6,4 +6,4 @@ Contact me at:
 | [LinkedIn](https://www.linkedin.com/in/ricvillagrana)
 | [ricardo@axolot.io](mailto:ricardo@axolot.io)
 
-Currently working for [Rebel Idealist](http://rebelidealist.com) on [LimePay](https://limepay.me).
+Currently working for [Rebel Idealist](http://rebelidealist.com) on [PeachPay 🍑](https://peachpay.me).
