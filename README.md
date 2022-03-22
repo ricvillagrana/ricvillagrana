@@ -8,7 +8,7 @@ Contact me at:
 | [LinkedIn](https://www.linkedin.com/in/ricvillagrana)
 | [ricardo@axolot.io](mailto:ricardo@axolot.io)
 
-Currently working for [Rebel Idealist](http://rebelidealist.com) on [PeachPay](https://peachpay.me).
+Currently working on [Higo.io](https://higo.io).
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ricvillagrana&show_icons=true" alt="ricvillagrana" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricvillagrana&layout=compact&hide=html" alt="ricvillagrana" />
