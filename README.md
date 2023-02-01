@@ -1,4 +1,4 @@
-<img align="right" height="40px" src="https://www.peachpay.me/packs/logo-0398c26bbada306997ea0bb8d1d3a08c.svg" alt="ricvillagrana" />
+<img align="right" height="40px" src="https://uploads-ssl.webflow.com/62d03b499d852b2a70a9baf6/633ef00bd657844aa0b320ea_checkya%20final%20logo%20CY%20cap%203pp.png" alt="ricvillagrana" />
 
 ### Ricardo Villagrana
 #### @ricvillagrana
@@ -8,7 +8,10 @@ Contact me at:
 | [LinkedIn](https://www.linkedin.com/in/ricvillagrana)
 | [ricardo@axolot.io](mailto:ricardo@axolot.io)
 
-Currently working on [Higo.io](https://higo.io).
+Currently working on [CheckYa](https://checkya.com).
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricvillagrana&show_icons=true" alt="ricvillagrana" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricvillagrana&layout=compact&hide=html" alt="ricvillagrana" />
+Side projects:
+- [DonutFeedback - AI-driven Feedback Analyzer](https://www.donutfeedback.com)
+- More comming soon...
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricvillagrana)
