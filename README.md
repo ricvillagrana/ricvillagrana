@@ -12,6 +12,6 @@ Currently working on [CheckYa](https://checkya.com).
 
 Side projects:
 - [Work At Casa](https://www.workat.casa) - Find remote jobs from home.
-- More comming soon...
+- [Arvil](https://arvil.me) - Notion templates for all your needs. 🫰
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricvillagrana)
