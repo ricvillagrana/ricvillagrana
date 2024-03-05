@@ -1,12 +1,14 @@
-### Ricardo Villagrana
-#### @ricvillagrana
+![Header](./github-header-image.png)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricvillagrana&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricvillagrana&layout=compact)
 
-Contact me at:
-[Twitter](https://twitter.com/ricvillagrana)
-| [LinkedIn](https://www.linkedin.com/in/ricvillagrana)
-| [ricardo@axolot.io](mailto:ricardo@axolot.io)
+#### Technologies
+- 💎 Ruby
+- 🚀 JavaScript (React.js and Vue.js)
+- 🐘 PHP
+- 🐳 Docker
 
-Side projects:
-- [Arvil](https://arvil.me) - Notion templates for all your needs. 🫰
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricvillagrana)
+##### Learning
+- 🦀 Rust
+- 🐹 Go
